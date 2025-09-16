@@ -2,6 +2,8 @@
 
 #include <vector>
 #include <cstdlib>
+#include <cstdint>
+#include <cstddef>
 #include <string.h>
 
 #include "preprocessor.h"

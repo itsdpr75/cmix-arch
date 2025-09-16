@@ -27,6 +27,8 @@
 #include <ctype.h>
 #include <algorithm>
 #include <unordered_map>
+#include <cstdint>
+#include <cstddef>
 #include <memory>
 #define NDEBUG  // remove for debugging (turns on Array bound checks)
 #include <assert.h>

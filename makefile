@@ -1,4 +1,4 @@
-CXX = clang++-17
+CXX = clang++
 LFLAGS = -std=c++14 -Wall
 
 all: LFLAGS += -Ofast -march=native

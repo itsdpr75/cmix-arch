@@ -29,6 +29,8 @@
 #include <ctype.h>
 #include <unordered_map>
 #include <memory>
+#include <cstdint>
+#include <cstddef>
 #define NDEBUG
 
 #ifdef UNIX
