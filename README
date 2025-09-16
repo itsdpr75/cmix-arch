@@ -20,6 +20,10 @@ Instructions for enwik9 preprocessing:
 2) Run: ./enwik9-preproc c path_to_enwik9
 3) .ready4cmix is the preprocessed file. To reproduce enwik9, run: ./enwik9-preproc d .ready4cmix
 
+Changes of the fork:
+- Added lost includes
+- Makefile use 'clang++' insted of 'clang++-17'
+
 Changes from version 20 to version 21:
 - Improvements from fx2-cmix: https://github.com/kaitz/fx2-cmix
 
